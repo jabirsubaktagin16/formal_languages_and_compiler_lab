@@ -1,9 +1,3 @@
-/* Question: A C source program with single and multiple line comments is given.
-As the first step toward compilation you need to remove the comments and white space 
-(extra spaces, tabs and newline characters). Develop a program that takes as input 
-file the given source program and produces a filtered file as stated above. The 
-program must also display both the files.*/
-
 #include <stdio.h>
 void check_input(char) ;
 void multiline_comment();
