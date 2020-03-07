@@ -1,0 +1,1 @@
+[id include] [op <] [id stdio.h] [op >] [kw int] [id main] [par (] [kw void] [par )] [par {] [id printf] [par (] [id Hello] [par )] [sep ;] [id printf] [par (] [id World] [par )] [sep ;] [kw return] [num 0] [sep ;] [par }] 
